@@ -1,0 +1,15 @@
+POST / HTTP/1.1
+Host: saturn.picoctf.net:51649
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+Origin: http://saturn.picoctf.net:51649
+Connection: close
+Referer: http://saturn.picoctf.net:51649/
+Cookie: PHPSESSID=dpatb5uvg4tkqe33ig74hcn094
+Upgrade-Insecure-Requests: 1
+
+username=asd&password=asd

