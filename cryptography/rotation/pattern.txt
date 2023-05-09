@@ -1,0 +1,1 @@
+every alphabet switch 8 char to left
