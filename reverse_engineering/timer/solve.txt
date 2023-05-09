@@ -1,0 +1,1 @@
+extract apk and then use grep recursive to find the flag

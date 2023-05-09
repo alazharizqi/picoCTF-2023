@@ -1,0 +1,1 @@
+open file with ghidra and look at main function
