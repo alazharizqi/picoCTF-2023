@@ -1,1 +1,1 @@
-strings trace.pcap | grep pico > flag.txt
+find base64 text, then decrypt it. fill decrypt text into passwod zip file
